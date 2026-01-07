@@ -57,6 +57,17 @@ The system retrieves relevant financial data and generates an accurate, context-
 
 ![Sample Answer](screenshots/sample-query-answer.png)
 
+### Rejected Query Example
+
+**Query:**  
+What is Elon Musk’s net worth?
+
+**Result:**  
+The system correctly indicates that the information is not available in the indexed dataset, demonstrating controlled and grounded behavior.
+
+![Rejected Query](screenshots/rejected-query.png)
+
+
 ---
 
 ## Tools & Technologies
