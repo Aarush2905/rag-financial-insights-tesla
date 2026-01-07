@@ -79,3 +79,8 @@ The system retrieves relevant financial data and generates an accurate, context-
 - Add support for additional financial periods and companies
 - Improve chunking and retrieval strategies
 - Add evaluation metrics for response quality
+
+---
+
+## Workflow Exports
+The n8n workflow definitions are included in the `workflows/` directory for reference and reproducibility.
